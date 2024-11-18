@@ -2,4 +2,4 @@
 
 # Evidencia del funcionamiento del proyecto, junto con las peticiónes realizadas.
 
-![Mi imagen local](/img/"1.PNG")
+![Mi imagen local](img/"1.PNG")
